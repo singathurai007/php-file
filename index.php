@@ -110,7 +110,7 @@
         
         <form action="display.php" method="POST">
             <div class="form-group">
-                <label>👤addpuyal raa Name</label>
+                <label>👤Name</label>
                 <input type="text" name="fullname" placeholder="Enter your full name" required>
             </div>
 
