@@ -110,7 +110,7 @@
         
         <form action="display.php" method="POST">
             <div class="form-group">
-                <label>👤add your party namee Name</label>
+                <label>👤MY NAME IS BILLA AND YOU?</label>
                 <input type="text" name="fullname" placeholder="Enter your full name" required>
             </div>
 
