@@ -110,7 +110,7 @@
         
         <form action="display.php" method="POST">
             <div class="form-group">
-                <label>👤add your fav footballer Name</label>
+                <label>👤addpuyal raa Name</label>
                 <input type="text" name="fullname" placeholder="Enter your full name" required>
             </div>
 
